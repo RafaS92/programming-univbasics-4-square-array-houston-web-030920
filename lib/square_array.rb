@@ -1,4 +1,4 @@
-def square_array(numbers)
+def square_array
   counter = 0 
   numbers =[1,2,3]
   newarray =[]
