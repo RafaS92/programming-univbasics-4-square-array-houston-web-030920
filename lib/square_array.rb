@@ -1,4 +1,4 @@
-def square_array(numbers)
+def square_array
   counter = 0 
   while counter < numbers.length do
     puts numbers(counter)
