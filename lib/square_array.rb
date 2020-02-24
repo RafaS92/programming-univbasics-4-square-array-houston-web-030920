@@ -4,7 +4,7 @@ def square_array(numbers)
   newarray=[]
   
   while numbers[counter]  do
-   newarray << numbers[counter] **2
+   newarray << numbers[counter] **
     counter +=1
   end
 return newarray
