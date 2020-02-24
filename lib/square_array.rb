@@ -3,8 +3,8 @@ def square_array(numbers)
   numbers =[1,2,3]
   newarray =[]
   while numbers[counter] do
-   baarray << numbers[counter] ** 2
+   newarrayarray << numbers[counter] ** 2
     counter +=1
   end
-newarrayarray
+newarray
 end
