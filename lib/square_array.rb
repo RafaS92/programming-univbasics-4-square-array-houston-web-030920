@@ -6,6 +6,5 @@ def square_array(numbers)
    baarray << numbers[counter] ** 2
     counter +=1
   end
-
-end
 baarray
+end
